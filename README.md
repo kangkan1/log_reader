@@ -1,9 +1,9 @@
 # log_reader
 
-Installing the packages
+## Installing the packages
 
 # npm install
 
-Running the project
+## Running the project
 
 # npm start
